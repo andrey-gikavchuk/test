@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /inwidget/
-Disallow: /404.php
-Disallow: /target.php
-Disallow: /target_z.php
-Sitemap: http://esl.apslogos.com/sitemap.xml
-Host: esl.apslogos.com
